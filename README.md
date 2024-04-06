@@ -31,6 +31,6 @@ We have designed various conceptual diagrams to illustrate the functionality and
 
 ## Acknowledgements
 
-We would like to express our gratitude to Unnati Koppikar Mam(Project Guide), Vinayak Kesti(Team Member), Akshata Hoolageri(Team Member), Sanjeevini Kamat(Team Member) for their contributions and support during the development of this project.
+I would like to express our gratitude to Unnati Koppikar Mam(Project Guide), Vinayak Kesti(Team Member), Akshata Hoolageri(Team Member), Sanjeevini Kamat(Team Member) for their contributions and support during the development of this project.
 
 
